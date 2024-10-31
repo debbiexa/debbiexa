@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @debbiexa
-- 👀 I’m interested in programming in general, AI and gameDev]
+- 👀 I’m interested in programming in general, AI and gameDev
 - 🌱 I’m currently learning Swift, Python & C#
 - 💞️ I’m looking to collaborate on some gaming projects
 - 📫 gmail: deborahkurdzhieva@gmail.com; instagram: @debbiexa
